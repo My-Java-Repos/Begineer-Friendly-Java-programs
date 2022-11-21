@@ -19,7 +19,7 @@ It is very easy to contribute, you may follow these steps -
 6. Open up a PR. It will be merged after review.
 
 ## Programs:
-1. [Abstract Class](https://github.com/PrajaktaSathe/Java/blob/main/Programs/abstractClass.java) - Program to demonstrate abstract classes in Java
+1. [Abstract Class](https://github.com/My-Java-Repos/Begineer-Friendly-Java-programs/Java/blob/main/Programs/abstractClass.java) - Program to demonstrate abstract classes in Java
 2. [Rectangle Area](https://github.com/My-Java-Repos/Begineer-Friendly-Java-programs/Java/blob/main/Programs/areaRect.java) - Calculates area of a rectangle
 3. [Arithmetic exceptions](https://github.com/My-Java-Repos/Begineer-Friendly-Java-programs/Java/blob/main/Programs/arithExceptions.java) - Program to show Arithmetic Exception Error handling
 4. [Array Lists](https://github.com/My-Java-Repos/Begineer-Friendly-Java-programs/Java/blob/main/Programs/arrayLists.java) - Program to show list of strings in java
